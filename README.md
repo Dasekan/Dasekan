@@ -1,57 +1,110 @@
-Hej, jeg hedder Dasekan Allan Karim 👋
+# Hi, I'm Dasekan Allan Karim 
 
-🎓 Nyuddannet Datamatiker fra Zealand Erhvervsakademi
+ Recently graduated AP Degree in Computer Science (Datamatiker)
 
-💻 Junior .NET-udvikler med interesse for backend-udvikling, webapplikationer og REST API'er.
+💻 Junior .NET Developer passionate about backend development, web applications, APIs, and AI-powered software.
 
-Jeg arbejder primært med udvikling i C# og .NET, hvor jeg har erfaring med ASP.NET Core, Entity Framework Core, SQL Server og udvikling af moderne webapplikationer.
+I enjoy designing and building modern applications using the .NET ecosystem. During my education, I developed several full-stack applications, REST APIs, and AI-integrated solutions while focusing on clean architecture, maintainable code, and scalable software.
 
-Teknologier
-C#
-.NET / ASP.NET Core
-Entity Framework Core
-SQL Server
-SQLite
-REST API
-Razor Pages
-MVC
-HTML
-CSS
-JavaScript
-Git
-GitHub
-Visual Studio
-Udvalgte projekter
-Consultant Platform
+---
 
-Full-stack webapplikation udviklet med ASP.NET Core Web API og Razor Pages.
+##  Tech Stack
 
-Teknologier: ASP.NET Core, Entity Framework Core, SQL Server, REST API
+### Languages
+- C#
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks & Technologies
+- .NET 8
+- ASP.NET Core
+- ASP.NET Core MVC
+- Razor Pages
+- Entity Framework Core
+- REST APIs
+- JSON
+- OpenAI API
+
+### Databases
+- SQL Server
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
+
+---
+
+## 📌 Featured Projects
+
+###  Consultant Platform
+
+A full-stack consultant management system consisting of an ASP.NET Core Web API and a Razor Pages frontend.
+
+**Technologies**
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST API
 
 🔗 https://github.com/Dasekan/ConsultantPlatform
 
-Tracking Web App
+---
 
-Webapplikation til registrering og analyse af brugeraktivitet.
+###  Tracking Web App
 
-Teknologier: ASP.NET Core MVC, SQLite, Entity Framework Core
+A web application for collecting and analyzing website user activity.
+
+**Technologies**
+- ASP.NET Core MVC
+- SQLite
+- Entity Framework Core
 
 🔗 https://github.com/Dasekan/TrackingWebApp
 
-Beck Support Bot
+---
 
-AI-baseret supportsystem med OpenAI API og lokal vidensbase.
+###  Beck Support Bot
 
-Teknologier: ASP.NET Core Web API, OpenAI API
+An AI-powered support assistant built with ASP.NET Core Web API and OpenAI.
+
+**Technologies**
+- ASP.NET Core Web API
+- OpenAI API
+- REST API
 
 🔗 https://github.com/Dasekan/BeckSupportBot
 
-Om mig
+---
 
-Jeg nyder at udvikle løsninger i .NET og lære nye teknologier. Jeg interesserer mig særligt for backend-udvikling, API-design og databaser.
+##  Currently Learning
 
-Jeg søger min første fuldtidsstilling som Junior .NET-udvikler, hvor jeg kan videreudvikle mine tekniske kompetencer og bidrage til spændende softwareprojekter.
+- React
+- TypeScript
+- Next.js
+- Docker
+- Azure
 
-Kontakt
+---
 
-📧 dasekan@gmail.com
+##  Career Goals
+
+I'm currently looking for my first full-time position as a:
+
+- Junior .NET Developer
+- Backend Developer
+- Full Stack Developer
+- Software Developer
+
+I'm passionate about building scalable software, learning new technologies, and solving real-world problems through code.
+
+---
+
+##  Contact
+
+ Email: dasekan@gmail.com
+
+🔗 GitHub: https://github.com/Dasekan
